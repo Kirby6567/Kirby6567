@@ -18,8 +18,43 @@ I am the creator of **Model P3 (Algorithmic Compression Signatures)**, a novel m
 
 ### Quick Links
 - 🔗 **Repository:** [Model P3 Toolkit](https://github.com/Kirby6567/model-p3-acs-toolkit)
-- 📄 **Publication:** [Zenodo DOI: 10.5281/zenodo.18444596](https://zenodo.org/records/18444596)
+- 📄 **Publications:** 
+  - [Zenodo DOI: 10.5281/zenodo.18444596](https://zenodo.org/records/18444596)
+  - [Research Profile](https://zenodo.org/search/?q=Cristhian%20Lucinger)
 - 📊 **Status:** Production Ready ✅
+
+---
+
+## 📊 Key Metrics
+
+| Metric | Value |
+|---|---|
+| **Research Publications** | 2 (Zenodo) |
+| **Active Projects** | 5+ |
+| **GitHub Repositories** | 10+ |
+| **Model P3 Accuracy** | 100% |
+| **Languages** | Python, Bash, LaTeX, SQL, JavaScript |
+| **Cloud Platforms** | 3 (AWS, Azure, OCI) |
+| **Security Frameworks** | 5+ (NIST, ISO 27001, MITRE ATT&CK, LGPD) |
+| **Certifications** | 5 (CompTIA, Google, Fortinet, Oracle, IBSEC) |
+
+---
+
+## 💼 Featured Projects
+
+### 🔐 Model P3 Toolkit
+**Algorithmic Compression Signatures for Passive RSA Auditing**
+- ✅ 100% honeypot detection accuracy
+- ✅ 3 compression algorithms (ZLIB, Zstd, Brotli)
+- ✅ Production-ready implementation
+- ✅ [Repository](https://github.com/Kirby6567/model-p3-acs-toolkit) | [Research](https://zenodo.org/records/18444596)
+
+### 🐛 Script Bug Hunt
+**Security Testing & Vulnerability Assessment Framework**
+- ✅ Automated vulnerability scanning
+- ✅ Security-focused scripting utilities
+- ✅ Bug hunting automation tools
+- ✅ [Repository](https://github.com/Kirby6567/scriptbughuntKirby)
 
 ---
 
@@ -53,16 +88,16 @@ I am the creator of **Model P3 (Algorithmic Compression Signatures)**, a novel m
 ## 🛠️ Technical Arsenal
 
 ### Offensive Security
-`Pentest Lifecycle` `Network Scanning (Nmap)` `Burp Suite` `Metasploit` `Privilege Escalation` `Wireshark` `Web Application Testing` `Active Directory Attacks`
+`Pentest Lifecycle` `Network Scanning (Nmap)` `Burp Suite` `Metasploit` `Privilege Escalation` `Wireshark` `Web Application Testing` `Active Directory Attacks` `Kali Linux`
 
 ### Research & Development
-`Python` `Bash` `LaTeX` `Cryptography` `HPC Cluster Management` `Git` `Docker` `Security Automation`
+`Python` `Bash` `LaTeX` `Cryptography` `HPC Cluster Management` `Git` `Docker` `Security Automation` `JavaScript` `SQL`
 
 ### Defense & Cloud
-`SIEM (Wazuh)` `IDS/IPS (Snort)` `Fortinet` `AWS` `Azure` `OCI` `Linux Hardening` `Threat Hunting` `Vulnerability Management`
+`SIEM (Wazuh)` `IDS/IPS (Snort)` `Fortinet` `AWS` `Azure` `OCI` `Linux Hardening` `Threat Hunting` `Vulnerability Management` `WAF`
 
 ### Compliance & Governance
-`NIST Cybersecurity Framework` `ISO 27001` `MITRE ATT&CK` `LGPD/GDPR` `Risk Assessment` `Security Policies`
+`NIST Cybersecurity Framework` `ISO 27001` `MITRE ATT&CK` `LGPD/GDPR` `Risk Assessment` `Security Policies` `Incident Response`
 
 ---
 
@@ -82,20 +117,6 @@ I am the creator of **Model P3 (Algorithmic Compression Signatures)**, a novel m
 
 ---
 
-## 📊 Key Metrics
-
-| Metric | Value |
-|---|---|
-| **Research Publications** | 1 (Zenodo) |
-| **Active Projects** | 3+ |
-| **GitHub Repositories** | 5+ |
-| **Model P3 Accuracy** | 100% |
-| **Languages** | Python, Bash, LaTeX, SQL |
-| **Cloud Platforms** | 3 (AWS, Azure, OCI) |
-| **Security Frameworks** | 5+ (NIST, ISO 27001, MITRE ATT&CK) |
-
----
-
 ## 🔬 Research Interests
 
 - **Cryptographic Analysis:** Entropy detection in cryptographic material
@@ -103,6 +124,7 @@ I am the creator of **Model P3 (Algorithmic Compression Signatures)**, a novel m
 - **Purple Team Strategy:** Bridging offensive and defensive capabilities
 - **Performance Optimization:** HPC applications in security
 - **Threat Intelligence:** Automated vulnerability assessment
+- **Applied Mathematics:** Mathematical foundations of security
 
 ---
 
@@ -110,8 +132,9 @@ I am the creator of **Model P3 (Algorithmic Compression Signatures)**, a novel m
 
 ### 2026
 - 🏆 Created Model P3 with 100% honeypot detection accuracy
-- 📖 Published research on Zenodo
-- 🚀 Launched model-p3-acs-toolkit on GitHub (production-ready)
+- 📖 Published 2 research articles on Zenodo
+- 🚀 Launched model-p3-acs-toolkit (production-ready)
+- 🔧 Developed scriptbughuntKirby framework
 
 ### 2025
 - 🎓 Obtained OCI and Fortinet certifications
@@ -124,7 +147,7 @@ I am the creator of **Model P3 (Algorithmic Compression Signatures)**, a novel m
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristhian-lucinger/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kirby6567)
-[![Zenodo Research](https://img.shields.io/badge/Zenodo-DOI-blue?style=for-the-badge&logo=doi&logoColor=white)](https://zenodo.org/records/18444596)
+[![Zenodo Research](https://img.shields.io/badge/Zenodo-DOI-blue?style=for-the-badge&logo=doi&logoColor=white)](https://zenodo.org/search/?q=Cristhian%20Lucinger)
 [![Email](https://img.shields.io/badge/Email-lucinger.cris@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucinger.cris@gmail.com)
 
 ---
@@ -137,10 +160,11 @@ I'm interested in:
 - 📚 Technical mentorship
 - 🚀 Open-source security tools
 - 💡 Novel cryptographic applications
+- 🐛 Bug bounty programs
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <div align="center">
 
@@ -153,7 +177,7 @@ I'm interested in:
 
 ## 🎓 Technical Blog & Publications
 
-- 📖 **Model P3 Research Paper** - [Zenodo](https://zenodo.org/records/18444596)
+- 📖 **Model P3 Research** - [Zenodo](https://zenodo.org/search/?q=Cristhian%20Lucinger)
 - 🛠️ **Security Tools & Scripts** - [GitHub](https://github.com/Kirby6567)
 - 🔬 **Applied Cryptography Studies** - Active research
 
@@ -166,6 +190,18 @@ I'm interested in:
 - 🌍 Based in Timbó, SC, Brazil
 - 📱 Always learning new security paradigms and attack surfaces
 - 🎮 Participate in CTF competitions when time permits
+- 📚 Advocate for open-source security solutions
+
+---
+
+## 🏆 Achievements
+
+- ✅ Published 2 research articles on Zenodo
+- ✅ Created production-ready security toolkit (Model P3)
+- ✅ 100% accuracy in honeypot detection research
+- ✅ 5+ active open-source projects
+- ✅ Multiple security certifications
+- ✅ Full-stack security expertise (offense, defense, cloud)
 
 ---
 
