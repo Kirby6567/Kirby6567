@@ -104,7 +104,7 @@ I am the creator of **Model P3 (Algorithmic Compression Signatures)**, a novel m
 ## 📚 Education & Certifications
 
 ### Education
-**Bachelor of Computer Science** | Anhanguera University, Brazil (Graduation: 2027)
+**Bachelor of Computer Science** | Anhanguera University, Brazil (Graduation: 2029)
 - Focus: Applied Mathematics, Network Security, Data Structures, Algorithms
 - Specializations: Offensive Cybersecurity, Defensive Security, Digital Forensics (XP Educação Bootcamps)
 
